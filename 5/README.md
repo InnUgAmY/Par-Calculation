@@ -1,6 +1,8 @@
 ![image](https://github.com/user-attachments/assets/7aaac8d7-58b7-4956-a0ab-c8f396da775c)
 В лаб.р номер 5.2
 ![image](https://github.com/user-attachments/assets/a2413aa2-2045-4443-804e-79c3aa189681)
+
+
 Время параллельной сортировки: 65.27 секунд
 ⏳ Время одиночной сортировки: 65.28 секунд
 ✅ Результаты сортировок совпадают!
